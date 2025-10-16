@@ -539,6 +539,9 @@ const openaiModels = [
   "o3-mini",
   "o3",
   "o4-mini",
+  "glm-4.5",
+  "grok-4",
+  "gemini-2.5-pro",
 ];
 
 const googleModels = [
