@@ -697,7 +697,9 @@ const chatglmModels = [
   "glm-4v-flash", // free
   "cogview-3-plus",
   "cogview-3",
-  "cogview-3-flash", // free
+  "cogview-3-flash",
+  "glm-4.5",
+  "glm-4.6",// free
   // 目前无法适配轮询任务
   //   "cogvideox",
   //   "cogvideox-flash", // free
