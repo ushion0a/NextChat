@@ -722,6 +722,9 @@ const siliconflowModels = [
   "THUDM/glm-4-9b-chat",
   "Pro/deepseek-ai/DeepSeek-R1",
   "Pro/deepseek-ai/DeepSeek-V3",
+  "zai-org/GLM-4.6",
+  "zai-org/GLM-4.5",
+  "Qwen/Qwen3-32B",
 ];
 
 const ai302Models = [
