@@ -543,6 +543,7 @@ const openaiModels = [
   "grok-4",
   "gemini-2.5-pro",
   "glm-4.6",
+  "grok-3",
 ];
 
 const googleModels = [
